@@ -97,12 +97,14 @@ ul {
 .iconos {
     width: 146px;
     height: 146px;
+    border-radius: 10px;
 }
 
 @media (max-width: 768px) {
     .iconos {
         width:96px;
         height: 96px;
+        border-radius: 10px;
     }
 }
 
@@ -110,5 +112,6 @@ ul {
     .iconos {
         width: 196px;
         height: 196px;
+        border-radius: 10px;
     }
 }
