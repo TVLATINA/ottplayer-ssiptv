@@ -161,19 +161,19 @@ https://emision.arpamedia.es:4343/hls/emisionalicante.m3u8
 #EXTGRP:
 https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/ottplayer-ssiptv/logos/logos-tv.png" group-title="TV De España", LOGOS TV
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/ottplayer-ssiptv/logos/es-logos-tv.png" group-title="TV De España", LOGOS TV
 #EXTGRP:
 https://streamer1.streamhost.org/salive/logosH/chunklist_w100646042.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/ottplayer-ssiptv/logos/logos-kids.png" group-title="TV De España", LOGOS KIDS
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/ottplayer-ssiptv/logos/es-logos-tv-kids.png" group-title="TV De España", LOGOS KIDS
 #EXTGRP:
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w989363810.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/ottplayer-ssiptv/logos/logos-tv-salud.png" group-title="TV De España", LOGOS SALUD
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/ottplayer-ssiptv/logos/es-logos-tv-salud.png" group-title="TV De España", LOGOS SALUD
 #EXTGRP:
 https://streamer1.streamhost.org/salive/logossaludH/chunklist_w979516178.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/ottplayer-ssiptv/logos/logos-tv-estudio.png" group-title="TV De España", LOGOS ESTUDIO
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/ottplayer-ssiptv/logos/es-logos-tv-estudio.png" group-title="TV De España", LOGOS ESTUDIO
 #EXTGRP:
 https://streamer1.streamhost.org/salive/logosdirectaH/chunklist_w1957788111.m3u8
 
