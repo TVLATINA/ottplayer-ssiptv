@@ -40,15 +40,15 @@ https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_720.m3u8
 #EXTGRP:
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_2800_av-p.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-accion.png" group-title="TV De España", RAKUTEN ACCIÓN
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-accion.png" group-title="TV De España", RAKUTEN ACCIÓN
 #EXTGRP:
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-comedia.png" group-title="TV De España", RAKUTEN COMEDIA
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-comedia.png" group-title="TV De España", RAKUTEN COMEDIA
 #EXTGRP:
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-drama.png" group-title="TV De España", RAKUTEN DRAMA
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-drama.png" group-title="TV De España", RAKUTEN DRAMA
 #EXTGRP:
 https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
 
@@ -56,48 +56,48 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
 #EXTGRP:
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-stories.png" group-title="TV De España", RAKUTEN STORIES
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-stories.png" group-title="TV De España", RAKUTEN STORIES
 #EXTGRP:
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-mytime.png" group-title="TV De España", RAKUTEN MYTIME
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-mytime.png" group-title="TV De España", RAKUTEN MYTIME
 #EXTGRP:
 https://appletree-mytimespain-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-spain-rakuten/CDN/1280x720_2560800/chunklist.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-scifi.png" group-title="TV De España", RAKUTEN SCIFI
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-scifi.png" group-title="TV De España", RAKUTEN SCIFI
 #EXTGRP:
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b304838b-e36a-4a7d-88df-d815dfc16a69/5.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-tastemade.png" group-title="TV De España", RAKUTEN TASTEMADE
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-tastemade.png" group-title="TV De España", RAKUTEN TASTEMADE
 #EXTGRP:
 https://tastemade-es8tm-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-es8intl-rakuten-es/CDN/1280x720_2855600/chunklist.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-explore.png" group-title="TV De España", RAKUTEN EXPLORE
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-explore.png" group-title="TV De España", RAKUTEN EXPLORE
 #EXTGRP:
 https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-explorebytvplayer-es-rakuten/CDN/1280x720_3440800/chunklist.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-insight-tv.png" group-title="TV De España", RAKUTEN INSIGHT TV
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-insight-tv.png" group-title="TV De España", RAKUTEN INSIGHT TV
 #EXTGRP:
 https://insighttv-spa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-insighttv-spa-rakuten/CDN/1280x720_3440800/chunklist.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-love-nature.png" group-title="TV De España", RAKUTEN LOVE NATURE
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-love-nature.png" group-title="TV De España", RAKUTEN LOVE NATURE
 #EXTGRP:
 https://amg00090-blueantmedia-loncastilian-rakuten-9j56c.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-lovenature-castilian-rakuten/CDN/1280x720_2525600/chunklist.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-clubbing.png" group-title="TV De España", RAKUTEN CLUBBING
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-clubbing.png" group-title="TV De España", RAKUTEN CLUBBING
 #EXTGRP:
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/1280x720_3440800/chunklist.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-qwest-classic.png" group-title="TV De España", RAKUTEN QWEST CLASSIC
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-qwest-classic.png" group-title="TV De España", RAKUTEN QWEST CLASSIC
 #EXTGRP:
 https://qwestclassic-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestclassic-rakuten/CDN/1280x720_3440800/chunklist.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-qwest-jazz-and-beyond.png" group-title="TV De España", RAKUTEN QWEST JAZZ & BEYOND
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-qwest-jazz-and-beyond.png" group-title="TV De España", RAKUTEN QWEST JAZZ & BEYOND
 
 #EXTGRP:
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/1280x720_3440800/chunklist.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/es-logos/es-rakuten-qwest-mix.png" group-title="TV De España", RAKUTEN QWEST MIX
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-rakuten-qwest-mix.png" group-title="TV De España", RAKUTEN QWEST MIX
 #EXTGRP:
 https://qwestmix-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestmix-rakuten/CDN/1280x720_3440800/chunklist.m3u8
 
@@ -161,19 +161,19 @@ https://emision.arpamedia.es:4343/hls/emisionalicante.m3u8
 #EXTGRP:
 https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-logos-tv.png" group-title="TV De España", LOGOS TV
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/logos-tv.png" group-title="TV De España", LOGOS TV
 #EXTGRP:
 https://streamer1.streamhost.org/salive/logosH/chunklist_w100646042.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-logos-kids.png" group-title="TV De España", LOGOS KIDS
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/logos-kids.png" group-title="TV De España", LOGOS KIDS
 #EXTGRP:
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w989363810.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-logos-tv-salud.png" group-title="TV De España", LOGOS SALUD
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/logos-tv-salud.png" group-title="TV De España", LOGOS SALUD
 #EXTGRP:
 https://streamer1.streamhost.org/salive/logossaludH/chunklist_w979516178.m3u8
 
-#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/es-logos-tv-estudio.png" group-title="TV De España", LOGOS ESTUDIO
+#EXTINF:-1tvg-logo="https://tvlatina.github.io/SS-IPTV/logos/logos-tv-estudio.png" group-title="TV De España", LOGOS ESTUDIO
 #EXTGRP:
 https://streamer1.streamhost.org/salive/logosdirectaH/chunklist_w1957788111.m3u8
 
