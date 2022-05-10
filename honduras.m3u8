@@ -1,0 +1,76 @@
+#EXTM3U
+
+#EXTINF:0,HCH
+https://stream-01.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpqEH49fZV-nMo-h9e0a76ydgJHbWynnuXNsPUB_o0ulF)/dm/3/x81za5c/s/live-3.m3u8#cell=lcore
+
+#EXTINF:0,CANAL 5
+https://stream-05.dc3.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRO-wqqq9NdKY52uJf6GU8nTZkHTp7pe0pvFD3m0wuHCh)/dm/3/x88jd1d/s/live-3.m3u8#cell=lcore
+
+#EXTINF:0,CANAL 5 (EVENTUAL)
+https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_0/chunklist.m3u8
+
+#EXTINF:0,TSI
+https://stream-05.dc3.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRJzWckE0-p6m_US1SIUzFUVe1JqDUNLueQyRo5Bp0jxy)/dm/3/x88jdft/s/live-3.m3u8#cell=lcore
+
+#EXTINF:0,TSI (EVENTUAL)
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_0/chunklist.m3u8
+
+#EXTINF:0,TELECADENA 7 y 4 (EVENTUAL)
+https://bcovlive-a.akamaihd.net/825f39eaa17d4794a3898945026556e0/us-west-2/6056665196001/profile_0/chunklist.m3u8
+
+#EXTINF:0,Canal 11
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+#EXTINF:0,HONDURED
+https://stream-07.ix7.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4wq5wU-P1fHCApNyKTTfJyyQv5kxG-ylu8IrWaT3GYjK)/dm/3/x83axzj/s/live-1.m3u8#cell=lcore
+
+#EXTINF:0,EDN TV
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/chunklist_w1136438017.m3u8
+
+#EXTINF:0,GLOBO TV
+https://panel.dattalive.com/8122/8122/chunklist.m3u8
+
+#EXTINF:0,TELEPROGRESO
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/chunklist_w630439917.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=&architecture=&deviceId=66206ab1-bc23-4312-a8eb-c0eef0150220&deviceVersion=100.0.4896&appVersion=6.0.0-7b41be4ae0f5671f8175d9ea5a69f4f299a4f1b3&deviceType=web&deviceMake=chrome&sid=83a46ef7-bbfe-11ec-901e-0242ac110003&advertisingId=&deviceLat=39.4158&deviceLon=-0.4067&deviceDNT=0&deviceModel=web&userId=&appName=web&gdpr=1&gdprConsent=CPXGbTAPXGbTAAcABBENCKCgALAAAELAACiQHmAQ4C4EQQkBaNhdAYskQIADUlwAAeAgCgAAAAAFCAAAIAYABAAggAQAACACOAAAIAIAAAIAAAAAQEAAAAAAAAEAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAgAAEIAQAAAAAAQAAAAAAAAAAAAAAAAAAAAQNzAjAFSIggKA0dCaAFIIAQAgrCAAAUBAFAACAAAIEAAAQAwAKAABAAgAAEAEcAAAQAQAAAQAAAAAgIAAAAAAAACAAAAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAQAgIAAAAAgAAAAAQEwQD8AA0ACgANAArABcAGQAOAAgABIACoAF4AMgAaAA6gB4AHoAP4AhgCOAEyAJwAoABSgCyALYAXYAvgDEAGWANAA2ABuADnAIEAggBCQCGAIkARkAjgCQgFEAUoArQBbgC5AGVAOAA4
+
+#EXTINF:0,CHOLUSAT SUR
+http://audiotvserver.net:1935/livemedia/cholusat/chunklist.m3u8
+
+#EXTINF:0,CAMPUS TV
+http://st2.worldkast.com/8004/8004/playlist.m3u8
+
+#EXTINF:0,DIOS TV KIDS
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,EVENEZER TV
+https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/chunklist_w516164907_b850000_slen.m3u8
+
+#EXTINF:0,JEHOVA TV
+https://video.misistemareseller.com/jehovatelevision/jehovatelevision/chunklist_w675975565.m3u8
+
+#EXTINF:0,LTV
+https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w1154712972.m3u8
+
+#EXTINF:0,MAYA TV
+https://media.streambrothers.com:1936/8140/8140/playlist.m3u8
+
+#EXTINF:0,SERCANO
+https://62418d5684c12.streamlock.net/SERCANOHD/SERCANOLive.smil/chunklist_w1731248609_b1848000.m3u8
+
+#EXTINF:0,Si TV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1239135733.m3u8
+
+#EXTINF:0,TELEDANLÍ
+https://cloud2.streaminglivehd.com:1936/8224/8224/chunklist_w1354670709.m3u8
+
+#EXTINF:0,TEN
+https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/chunklist_w636289894_b1848000.m3u8
+
+#EXTINF:0,TV COPÁN
+https://emisoras.hn:8081/tvcopan/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,UNAH TV
+https://live-utv.unah.edu.hn/web/salida.m3u8
+
+#EXTINF:0,AZTECA HN
+http://190.122.96.187:8888/http/002
